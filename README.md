@@ -1,9 +1,10 @@
 # illi
-A 二次元式 Typecho theme
+ 二次元式 Typecho theme
 
-[主题预览链接](http://icry.info/)
 
-Usage
+- **作者**：[@touchitvoid](https://github.com/touchitvoid "@touchitvoid")
+- **源地址**：https://github.com/touchitvoid/illi
+
 
 主题命名illi扔到themes文件夹下，然后到后台启用.
 提供 '归档，友联，留言板'均为独立页面模板，自行切换
